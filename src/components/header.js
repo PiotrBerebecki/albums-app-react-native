@@ -29,10 +29,6 @@ const styles = {
   },
   textStyle: {
     fontSize: 20,
-    backgroundColor: '#558555',
-    borderStyle: 'solid',
-    borderWidth: 2,
-    borderColor: '#000000'
   }
 };
 

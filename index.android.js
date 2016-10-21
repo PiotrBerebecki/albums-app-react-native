@@ -1,15 +1,17 @@
 import React from 'react';
 import {
-  AppRegistry,
-  View
+  View,
+  AppRegistry
 } from 'react-native';
 
 import Header from './src/components/header';
+import AlbumList from './src/components/AlbumList';
 
 const App = () => {
   return (
     <View>
-      <Header headerText="Albums" />
+      <Header headerText={'Albums'} />
+      <AlbumList />
     </View>
   );
 };
