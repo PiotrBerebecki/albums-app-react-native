@@ -19,11 +19,19 @@ class AlbumList extends Component {
       });
   }
   
+  renderAlbums() {
+    return this.state.albums.map((album, index) => {
+      return (
+        <Text key={index}>{album.title}</Text>
+      );
+    });
+  }
+  
   render() {
     console.log(this.state.albums);
     return (
       <View>
-        <Text>Album List</Text>
+        {this.renderAlbums()}
       </View>
     );
   }
