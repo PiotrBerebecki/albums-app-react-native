@@ -7,10 +7,10 @@ Live version: [https://rnplay.org/apps/oQbi1w](https://rnplay.org/apps/oQbi1w)
 Development tools and techniques include:
 
 * React Native
-* ESLint
 * ES6
 * AJAX
 * Axios (Promise-based http client)
+* ESLint
 * Git
 * GitHub
 
@@ -23,7 +23,10 @@ Development tools and techniques include:
     > npm install
   
   
-Start Android Virtual Device in Android Studio:
+Start iOS or Android Virtual Device
 
+    > react-native run-ios
+    
+    or
 
     > react-native run-android
