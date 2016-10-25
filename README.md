@@ -2,7 +2,7 @@
 
 <img src="https://github.com/PiotrBerebecki/albums-app-react-native/blob/master/images/app-demo.gif" width="325">
 
-Live Version (https://rnplay.org/apps/oQbi1w)[https://rnplay.org/apps/oQbi1w]
+Live version: [https://rnplay.org/apps/oQbi1w](https://rnplay.org/apps/oQbi1w)
 
 Development tools and techniques include:
 
