@@ -11,6 +11,7 @@ Development tools and techniques include:
 * AJAX
 * Axios (Promise-based http client)
 * ESLint
+* Node
 * Git
 * GitHub
 
