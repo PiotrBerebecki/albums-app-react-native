@@ -7,6 +7,7 @@ Live version: [https://rnplay.org/apps/oQbi1w](https://rnplay.org/apps/oQbi1w)
 Development tools and techniques include:
 
 * React Native
+* CSS Flexbox
 * ES6
 * AJAX
 * Axios (Promise-based http client)
