@@ -12,6 +12,7 @@ Development tools and techniques include:
 * AJAX
 * Axios (Promise-based http client)
 * ESLint
+* Android Studio
 * Node
 * Git
 * GitHub
